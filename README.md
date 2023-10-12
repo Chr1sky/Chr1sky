@@ -1,0 +1,1 @@
+![BN](https://img.shields.io/aur/last-modified/google-chrome)
