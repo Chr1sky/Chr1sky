@@ -57,10 +57,5 @@ I'm Christopher! As a beginner Fullstack Developer🌱, my goal is to find oppor
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-
 [![Github stats](https://github-readme-stats.vercel.app/api?username=chr1sky&show_icons=true&include_all_commits=true)](https://github.com/chr1sky/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chr1sky&layout=compact)](https://github.com/chr1sky/github-readme-stats)
