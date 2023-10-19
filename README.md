@@ -39,7 +39,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr1sky&layo
   
 💬 Ask me what you want!
 📫 How to reach me:
-- Discord: 77905#1733
+- Discord: 77905
 
 ## 🛠 Languages &  Tools
 #### 🔧 Technologies
