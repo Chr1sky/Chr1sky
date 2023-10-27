@@ -6,9 +6,9 @@ I'm Christopher! As a beginner Fullstack Developer🌱, my goal is to find oppor
 
 ## About me
 
-<a href="https://github.com/Chr1sky?tab=repositories">
+<!-- <a href="https://github.com/Chr1sky?tab=repositories">
 <img width="400" height="auto" align="right" alt="Repith's github stats" 
-src="https://github-readme-stats.vercel.app/api?username=chr1sky&show_icons=true&include_all_commits=true&theme=algolia&count_private=true"/></a>
+src="https://github-readme-stats.vercel.app/api?username=chr1sky&show_icons=true&include_all_commits=true&theme=algolia&count_private=true"/></a> -->
 
 🔭 I’m currently working on: 
 - Learning Front-End Web Development  
@@ -21,9 +21,9 @@ src="https://github-readme-stats.vercel.app/api?username=chr1sky&show_icons=true
 - Typescript
 - React
 
-<a href="https://github.com/Chr1sky?tab=repositories">
+<!-- <a href="https://github.com/Chr1sky?tab=repositories">
 <img width="400" height="auto" align="right" alt="Repith's github stats" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr1sky&layout=compact"/></a>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr1sky&layout=compact"/></a> -->
 
 👯 I want to collaborate on:
 - openserach project
